@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: blueviolet;
+    padding: 5px;
+
+}
+nav a{
+    text-decoration: none;
+    color: aquamarine;
+    margin: 5px;
+    transition-property: all;
+    transition-duration: 0.5s;
+    
+}
+nav a:hover{
+    color: rgb(22, 2, 12);
+    
+}
+header{
+    background-color: rgb(40, 170, 170);
+    color: rgb(206, 175, 235);
+    padding:10px ;
+    text-align: center;
+}
+

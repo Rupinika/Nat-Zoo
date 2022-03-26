@@ -1,0 +1,36 @@
+.location{
+    background-color: rgb(40, 134, 103);
+    border: solid black 5px;
+    opacity: 1;
+    width: 800px;
+    margin: auto;
+    border-radius: 30px;
+    margin-top: 50px;
+    padding: 30px;
+    
+    
+    
+}
+.heading{
+    margin: auto;
+   background-color: rgb(70, 211, 211);
+   border-radius: 20px;
+    width: 500px;
+    margin-bottom: 15px;
+
+}
+body{
+    background: radial-gradient(blue, lightblue,lightgreen );
+}
+.iframe{
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 10px;
+    border-radius: 20px;
+    width: 600px;
+    height: 450px;
+}
+iframe{
+    border-radius: 10px;
+}
+

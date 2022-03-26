@@ -1,0 +1,35 @@
+div{
+    background-color: rgb(165, 236, 236);
+    margin: auto;
+    width: 300px;
+    height: 300px;
+   border: solid darkblue 5px;
+   border-radius: 20px;
+    
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-top:100px ;
+   
+}
+button{
+    background-color: rgb(127, 255, 176);
+    width: 60px;
+    height:50px ;
+    border-radius: 5px;
+    
+}
+button:hover{
+background-color: rgb(210, 145, 248);
+transition-property: all;
+transition-duration: 0.5s;
+}
+form{
+    padding: auto;
+}
+footer{
+    background-color: rgb(115, 231, 231);
+    margin-top: 200px;
+}
+body{
+    background-color: rgb(189, 131, 243);
+}
